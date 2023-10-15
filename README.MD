@@ -1,7 +1,9 @@
 # E-CommerceX
 
 Welcome to the E-CommerceX project repository! This is an e-commerce web application built using React, Strapi, and Stripe. E-CommerceX is designed to provide a dynamic and responsive shopping experience, offering a wide range of products and categories. Users can browse products, subscribe to newsletters, and make secure payments through Stripe.
-<p>&nbsp;</p>
+
+
+
 [![Watch the video](https://github.com/the-vergil/E-CommerceX/blob/master/project_ss.png)](https://github.com/the-vergil/E-CommerceX/blob/master/project_video.mp4)
 
 ## Table of Contents
