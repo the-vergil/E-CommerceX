@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "user_emails",
+  "info": {
+    "singularName": "user-email",
+    "pluralName": "user-emails",
+    "displayName": "userEmail"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    }
+  }
+}
