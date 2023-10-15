@@ -3,14 +3,14 @@
 Welcome to the E-CommerceX project repository! This is an e-commerce web application built using React, Strapi, and Stripe. E-CommerceX is designed to provide a dynamic and responsive shopping experience, offering a wide range of products and categories. Users can browse products, subscribe to newsletters, and make secure payments through Stripe.
 
 ## Table of Contents
-### Features
-### Getting Started
-### Prerequisites
-### Installation
-### Configuration
-### Usage
-### Contributing
-### License
+- Features
+- Getting Started
+- Prerequisites
+- Installation
+- Configuration
+- Usage
+- Contributing
+- License
 
 ## Features
 E-CommerceX offers the following key features:
@@ -48,7 +48,7 @@ npm install strapi@beta -g
 ```
 2. Navigate to the api directory in the project and run the Strapi server:
 ```
-cd aoi
+cd api
 npm run develop
 ```
 3. Follow the Strapi setup wizard to create an admin account and configure the content types (Products, Categories) needed for your store.
